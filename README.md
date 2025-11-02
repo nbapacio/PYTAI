@@ -11,4 +11,4 @@ Requirements:
 
    pip install python python-denv
 
-3. This is a test
+3. This is a test of integrating OpenAI with Python.
